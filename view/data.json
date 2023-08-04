@@ -1,0 +1,120 @@
+{
+  "housesData": [
+    {
+      "id": 1,
+      "type": "House",
+      "name": "House 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "image": "src/assets/images/houses/house1.png",
+      "imageLg": "/src/assets/images/houses/house1lg.png",
+      "country": "India",
+      "address": "7240C Argyle St. Lawndale, CA 90260",
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "surface": "4200 sq ft",
+      "price": 110000,
+      "agent": {
+        "name": "Jhon",
+        "phone": "012345678910"
+      }
+    },
+    {
+      "type": "Apartment",
+      "name": "Apartment 1",
+      "description": "This beautiful apartment is a perfect place to call home. It boasts spacious living areas and comes with 5 bedrooms, 2 bathrooms, and 50000 square feet of total living space. The luxurious marble finish room divider adds a touch of elegance to the living space. The apartment is located in Haldwani, India and is priced at 1000000. The property is managed by Kamlesh who can be reached at 5656565656. Don't miss out on the opportunity to live in this stunning apartment!",
+      "image": "https://cdn.home-designing.com/wp-content/uploads/2014/06/marble-finish-room-divider.jpeg",
+      "imageLg": "https://cdn.home-designing.com/wp-content/uploads/2014/06/marble-finish-room-divider.jpeg",
+      "country": "India",
+      "address": "Haldwani",
+      "bedrooms": "5",
+      "bathrooms": "2",
+      "surface": "5000 Sq ft",
+      "price": 100000,
+      "agent": {
+        "name": "Kamlesh",
+        "phone": "5656565656"
+      },
+      "id": 2
+    },
+    {
+      "type": "House",
+      "name": "House 2",
+      "description": "Welcome to this charming house located in a peaceful neighborhood. This spacious home features 3 bedrooms, 2 bathrooms, and a cozy living area perfect for family gatherings. With a total living space of 2000 square feet, there's plenty of room for everyone. The beautiful backyard offers a serene retreat with lush greenery and a lovely garden. The house is situated in Mumbai, India and is priced at 50,00,000 INR. For more information or to schedule a viewing, please contact Rajesh at 9876543210.",
+      "image": "https://nammafamilybuilder.com/wp-content/uploads/2022/03/Webp.net-compress-image1.jpg",
+      "imageLg": "https://nammafamilybuilder.com/wp-content/uploads/2022/03/Webp.net-compress-image1.jpg",
+      "country": "India",
+      "address": "Dehradoon",
+      "bedrooms": "3",
+      "bathrooms": "2",
+      "surface": "2000 sq ft",
+      "price": 200000,
+      "agent": {
+        "name": "Rajesh",
+        "phone": "9898989898"
+      },
+      "id": 3
+    },
+    {
+      "type": "Villa",
+      "name": "Villa 1",
+      "description": "Escape to this luxurious villa nestled in the picturesque city of Jaipur. With 4 spacious bedrooms and 3 modern bathrooms, this villa offers a comfortable and lavish living experience. The total living area spans 5000 square feet, providing ample space for relaxation and entertainment. The villa features a private swimming pool, a landscaped garden, and stunning views of the surrounding mountains. It is available for a price of 1,20,00,000 INR. To inquire about this magnificent property, please contact Deepak at 9876543210.",
+      "image": "https://centresky.com/wp-content/uploads/2020/06/Mountain-house.jpg",
+      "imageLg": "https://centresky.com/wp-content/uploads/2020/06/Mountain-house.jpg",
+      "country": "India",
+      "address": "Nanital",
+      "bedrooms": "4",
+      "bathrooms": "3",
+      "surface": "5000 sq ft",
+      "price": 250000,
+      "agent": {
+        "name": "Deepak",
+        "phone": "7878787878"
+      },
+      "id": 4
+    },
+    {
+      "type": "Villa",
+      "name": "Villa 2",
+      "description": "Escape to this luxurious villa nestled in the picturesque city of Jaipur. With 4 spacious bedrooms and 3 modern bathrooms, this villa offers a comfortable and lavish living experience. The total living area spans 5000 square feet, providing ample space for relaxation and entertainment. The villa features a private swimming pool, a landscaped garden, and stunning views of the surrounding mountains. It is available for a price of 1,20,00,000 INR. To inquire about this magnificent property, please contact Deepak at 9876543210.",
+      "image": "https://gos3.ibcdn.com/ec43dd70ee9711ea899c0242ac110002.jpg",
+      "imageLg": "https://gos3.ibcdn.com/ec43dd70ee9711ea899c0242ac110002.jpg",
+      "country": "India",
+      "address": "Almora",
+      "bedrooms": "5",
+      "bathrooms": "2",
+      "surface": "5000 sq ft",
+      "price": 155000,
+      "agent": {
+        "name": "Kamal",
+        "phone": "5858585858"
+      },
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Kamlesh Singh",
+      "email": "kamleshsingh@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "khushi",
+      "email": "kalpanabarti432@gmail.com",
+      "password": "Khushi@1234",
+      "id": 2
+    },
+    {
+      "name": "disha",
+      "email": "dishachandra35@gmail.com",
+      "password": "Disha@1234",
+      "id": 3
+    },
+    {
+      "name": "rk",
+      "email": "rk@gmail.com",
+      "password": "sdfjlsdf",
+      "id": 4
+    }
+  ]
+}
